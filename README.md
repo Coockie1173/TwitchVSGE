@@ -27,7 +27,6 @@ In total there's eleven different thing's that can happen:
 This program was designed with the carnivorous branch of the 1964 emulator in mind, and as of now, is the only emulator this program will work on.
 Emulator: http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=7045
 
-Download: 
 Libraries used: VAMmemory
 
 Make sure VAMMemory.dll is located alongside the exe for the program to work. 
