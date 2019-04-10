@@ -1,0 +1,12 @@
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\bin\Debug\TwitchChatReader.exe.config
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\bin\Debug\TwitchChatReader.exe
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\bin\Debug\TwitchChatReader.pdb
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\obj\Debug\TwitchChatReader.csprojAssemblyReference.cache
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\obj\Debug\TwitchChatReader.Form1.resources
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\obj\Debug\TwitchChatReader.Properties.Resources.resources
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\obj\Debug\TwitchChatReader.csproj.GenerateResource.cache
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\obj\Debug\TwitchChatReader.csproj.CoreCompileInputs.cache
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\obj\Debug\TwitchChatReader.exe
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\obj\Debug\TwitchChatReader.pdb
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\bin\Debug\VAMemory.dll
+C:\Users\Rudje\source\repos\TwitchChatReader\TwitchChatReader\obj\Debug\TwitchChatReader.csproj.CopyComplete
